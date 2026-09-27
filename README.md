@@ -125,5 +125,5 @@ The test suite covers normal transactions, high amounts, rapid country changes, 
 
 
 
-CardGuard is an educational portfolio project using fictional transaction data. Its risk rules are illustrative and are not intended for real-world fraud detection or payment authorization.
+Transaction Risk API is an educational portfolio project using fictional transaction data. Its risk rules are illustrative and are not intended for real-world fraud detection or payment authorization.
 
