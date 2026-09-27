@@ -74,7 +74,7 @@ http://127.0.0.1:8000/docs
 
 
 
-\## Example Request
+## Example Request
 
 
 
@@ -84,16 +84,12 @@ POST /transactions
 
 ```json
 
+
 {
-
-&#x20; "card\_id": "DEMO-1001",
-
-&#x20; "amount": 2450,
-
-&#x20; "merchant": "Demo Electronics",
-
-&#x20; "country": "US"
-
+  "card_id": "DEMO-1001",
+  "amount": 2450,
+  "merchant": "Demo Electronics",
+  "country": "US"
 }
 
 ```
@@ -104,7 +100,7 @@ The API flags this transaction for review because its amount exceeds the configu
 
 
 
-\## Testing
+## Testing
 
 
 
@@ -124,7 +120,7 @@ The test suite covers normal transactions, high amounts, rapid country changes, 
 
 
 
-\## Disclaimer
+## Disclaimer
 
 
 
