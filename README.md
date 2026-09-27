@@ -1,6 +1,6 @@
 
 
-\# CardGuard API
+# CardGuard API
 
 
 
@@ -8,7 +8,7 @@ A Python REST API that evaluates fictional credit card transactions using rule-b
 
 
 
-\## Features
+## Features
 
 
 
@@ -30,7 +30,7 @@ A Python REST API that evaluates fictional credit card transactions using rule-b
 
 
 
-\## Tech Stack
+## Tech Stack
 
 
 
@@ -38,7 +38,7 @@ Python, FastAPI, SQLite, Pydantic, pytest, HTTPX
 
 
 
-\## Getting Started
+## Getting Started
 
 
 
